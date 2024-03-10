@@ -1,8 +1,8 @@
 <template>
-    <div>
-        Layout
-    </div>
-    <div>
-        <slot />
-    </div>
+    <v-app
+        dark
+    >
+
+    </v-app>
+    <slot />
 </template>
